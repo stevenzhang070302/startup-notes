@@ -559,4 +559,348 @@ Email signature
 Biography on Twitter, LinkedIn, TikTok, Instagram, and Facebook
 Those offer more leverage than most people think.
 
+CHALLENGE
+Update email signature and social media bios.
+Put your landing page address in your email signature and your social bios.
+Send me a link to your new landing page at twitter.com/noahkagan—I’d love to
+hear from you!
 
+51 to 100—Post in Your Places
+You already have a social presence. Now it’s time to post a modified version of
+that email above in Facebook, Snapchat, Twitter, Reddit groups—or wherever you’re
+active.
+Hey Everyone
+Starting a “weekly” newsletter about [subject].
+Go to website.com to join the newsletter.
+Posting in your top places should move your total subscribers list close to 100.
+Use targeted referrals to grow your list. Ask your family and friends to refer one
+specific person who they think would like your newsletter. The more specific you are
+when you describe the person, the more likely you are to make it easier for them to do
+it. Take what I did for Sumo Jerky: “Do you know someone who makes purchase
+decisions at an office—and likes a good laugh?”
+Don’t forget about people you work with. I know there can be conflict, but you
+have more friends than you realize who want to support you!
+
+Growing Beyond Your First Subscribers
+1. Write an insanely detailed blog post dissecting the success of and
+drawing lessons from HubSpot’s content marketing approach. He spent forty
+hours working on this.
+2. Use social media and pretty much everything else to get that post in
+front of his ideal customers.
+3. Put a call to action (CTA) at the end of the post telling readers to sign
+up to receive a download of growth hacks he’d put together.
+
+Here are four examples of Lead Magnets I use:
+A checklist that can be used to properly perform something I explained
+in a video.
+A template for determining, say, a business’s profit margin.
+An advanced guide that goes further into the details of a subject of one
+of my videos.
+A unique book that provides substantial value but is offered for free.
+For me, it is 11 Side Hustle Ideas to Make $500/Day from Your Phone.
+
+The appropriate opt-in incentive depends on your content. Here are other types of
+examples:
+A DIY carpenter could offer plans to make a corner table.
+A marketing YouTuber could offer scripts of what to say on sales phone
+calls.
+A landscaping expert might offer recommendations for which kinds of
+grass to use around the United States.
+
+
+CHALLENGE
+Create a Lead Magnet.
+It’s time to create your first Lead Magnet using the process we’ve just
+outlined above. You can use your piece of content from the previous chapter as a
+base or start something new. Don’t spend more than two hours on the first
+iteration. If you want to turn it into a big thing later on, great. But start SMALL.
+
+Set Up Your Cash Register
+
+Here’s the three-step progression of emails that I’ve found works best:
+1. Welcome Email
+SUBJECT: You’re awesome
+Thanks for joining OkDork. You are awesome!
+Over 17 years of working online I’ve learned some things:
+#30 at Facebook and helped launch mobile, status updates, and more
+#4 at Mint and led growth to 1 million users within 1 year
+Started AppSumo, which is now an $85M/year business
+And now, I want to help you on your journey to living the life you want.
+What could I write to provide value to you?
+Love you,
+Noah “tacos” Kagan
+2. Connection Email
+SUBJECT: Connect with me on LinkedIn
+Howdy amigo,
+Send me a connection request on LinkedIn to help share our relationships,
+see behind-the-scenes thoughts on marketing, startups, and more . . .
+Hugs,
+Noah
+3. Content Email
+SUBJECT: Starting an 8-figure business with $50
+I started AppSumo in March 2010.
+In one weekend, with $50, I launched version 1 of the site. It was simple.
+12 years later, Sumo Group has grown into an 8-figure business.
+Starting a business can be hard. But I want to show you an easier way:
+Here’s how I built AppSumo.com for $50.
+Enjoy,
+Noah
+
+A MAJOR thing here is one-by-one marketing. This is personally engaging
+with each new subscriber.
+
+CHALLENGE
+Set up an autoresponder.
+I happen to think SendFox.com (I helped build it) is pretty darned good, but
+there are a bunch of others that I recommend, like ConvertKit.com and
+Mailchimp.com.
+
+The Law of 100
+Lean in and commit to 100 reps. (Think of this as doing reps and practicing as
+opposed to failing or succeeding.) This changes your mindset and makes it much
+easier to sustain forward motion when things get tough.
+
+The key is to set up a system that helps you get your 100 reps done without
+thinking about the results.
+The solution to all the doubt that will inevitably creep up on you is to commit to
+your first 100—whatever it is for you—with complete disregard for your results.
+If you want to start a YouTube channel, publish 100 videos.
+If you’re doing a newsletter, write 100 emails.
+If you’re starting a new hobby like chess or guitar, practice for 100
+days.
+If you’re creating a business, directly pitch 100 customers.
+
+
+CHALLENGE
+The Law of 100.
+Commit to doing 100 emails, posts, or whatever action will move you closer
+to your goals. To live up to your commitment, use the Law of 100 Grid below to
+track your progress—and don’t break the chain!
+TASK: _________________________________________________
+1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28 29 30
+31 32 33 34 35 36 37 38 39 40
+41 42 43 44 45 46 47 48 49 50
+51 52 53 54 55 56 57 58 59 60
+61 62 63 64 65 66 67 68 69 70
+71 72 73 74 75 76 77 78 79 80
+81 82 83 84 85 86 87 88 89 90
+91 92 93 94 95 96 97 98 99 100
+
+CHAPTER 8
+The Growth Machine
+My Battle-Tested Growth Playbook
+
+1. What is your one goal for this year?
+2. Who exactly is your customer and where can you find them?
+3. What is one marketing activity you can double down on?
+4. How can you delight your first 100 customers?
+5. If you HAD to double your business with no money in thirty days, what
+would you do?
+
+1. Set a single hyper-focused exact goal.
+
+First off, you need to set a goal. That means choosing a number. For AppSumo in
+the beginning, the goal was 100,000 email addresses. Everything else (revenue from
+purchases, sharing deals, visibility, brand awareness) is rooted in that single number.
+We noticed that if we could grow that number, everything else grew, too. Other
+examples could be:
+The monthly Freedom Number you chose in chapter 1
+1,000 YouTube subscribers
+$1 million in net revenue
+Fifty clients
+Your goal is the one number that matters most. Starting with the destination makes
+planning the route much easier.
+
+PRO TIP: Be specific. One of the most common mistakes I see from
+entrepreneurs when they set goals is they say they want “more.” More revenue,
+more traffic, more downloads. But how much and by when?
+Now add a time frame. A terrible goal is “I want to be rich.” That’s totally
+meaningless. What’s the number? A better one is “I want to be worth $1 million.”
+There’s no time frame. And without a time frame, there’s no urgency. So what’s a goal
+we can work with?
+“I want to be worth $1 million in three years.”
+Me likey.
+Once you have a goal and a time frame, you can break down your goal into a
+timeline of smaller targets. Besides making your goals feel more achievable, having a
+timeline is crazy motivating because you get to tick off smaller wins on the way to
+achieving your overall target.
+
+2. Create your Marketing Experiment List
+
+Source Expected Sales Actual Sales
+Personal network + referrals 30 ???
+Sale to Vancouver Rock Climbing Group 20 ???
+Wholesale 50 ???
+Marketplaces: eBay 25 ???
+Giveaways 25 ???
+Facebook ads 16 ???
+Total 166 (his goal)
+
+Source Expected Sales Actual Sales
+Reach out to friends + referrals 30 9
+Sale to Vancouver Rock Climbing Group 20 11
+Wholesale options 50 217
+Marketplaces—eBay 25 0
+Giveaways 25 0
+Facebook ads 16 0
+Total 166 (his goal) 237
+The point here is, you never know what’s going to work when it comes to
+marketing. To find the thing that does work, what you need is a process of small
+experiments—based on your BEST GUESS of what might work. It’s all about
+prioritizing tactics and ruthlessly testing them!
+Daniel tried six different experiments in thirty days. He thought wholesaling would
+make 50 sales. Turns out it made 200+. He thought eBay would do 30 units; turns out
+it did a whopping 0. So he modified his plan to go wholesale and doubled down on
+that, since it made 90 percent of his sales.
+Now let’s get a list of marketing strategies you can do. To do that you need to
+know:
+1. Who is your ideal customer?
+2. Where are they?
+Who is your ideal customer?
+At Mint, we focused on personal finance bloggers and tech
+professionals.
+At AppSumo, our customer is Marketing Agency Matt, who is a
+solopreneur.
+At OkDork, my customer is an underdog looking for inspiration on
+their business journey.
+The best way I found to figure out your ideal customer is to look for patterns with
+your existing ones:
+Think about what’s in common with your existing customers. Certain age?
+Common interest? Specific gender? Certain hobbies? From a specific area?
+
+CHALLENGE
+Who’s your customer?
+Describe to me who your ideal customer is.
+The MORE specific the better. Think about their gender, age, location, and
+anything else that makes them unique.
+Next, where can you find more of these ideal customers?
+
+For example, with Daniel:
+Who: People who rock climb outdoors at least once a week.
+Where: North America/Canada, belong to a rock-climbing gym, purchase
+things from sporting goods stores, read Outside magazine, are fans of Alex
+Honnold (the free soloist climber), are in meetups/online groups to talk about
+climbers, watch specific YouTubers who teach new climbing techniques, and eat
+energy food like CLIF Bars.
+If you can’t think of where, here’s a list of generic marketing ideas to get you
+going:
+Contacting your network: The number one place you should look for
+customers is in your own existing network. The benefit is that people already
+know you, so making the sale is easier.
+Paid ads: Reach out to potential customers on search engines like Bing
+and Google, so your name will appear when certain keywords are searched.
+Social ads: Target your audience through ads on social channels like
+Twitter and Facebook, Reddit, TikTok, or LinkedIn.
+Content marketing: Create and publish content (blogs, podcasts,
+videos) with the goal of generating interest in your product/service.
+Cold outreach: Speak directly to potential customers. This could mean
+picking up the phone and calling potential customers or sending cold emails
+to prospects.
+Target market blogs: Sponsor posts and content on popular blogs
+within your target market.
+Influencer marketing: Identify and build relationships with
+individuals who have influence over your target market (for example, highprofile bloggers or Instagrammers).
+PR: Pitch the press and bloggers in your niche to cover your story.
+SEO: Search engine optimization is another reliable way to grow your
+traffic, but it takes time. Do some keyword research on sites like
+AnswerThePublic or SpyFu to discover what people in your niche are
+talking about. Create hyper-targeted content to drive traffic.
+Giveaways: Round up some epic prizes, create a sweepstakes page . . .
+and promote the shit out of it.
+Collaborations: Appear on other podcasts/shows/newsletters/YouTube
+channels.
+
+CHALLENGE
+Where are your customers?
+Now list at least five places your customers are and how many sales in thirty
+days you think you can get from them.
+
+3. Double down on what works.
+There’s a golden rule to marketing tactics I want you to repeat after me: Find what
+works and double down on it; find what doesn’t work and kill it.
+
+CHALLENGE
+What marketing strategies can I double down on?
+Let’s update your original marketing experiments sheet with actual sales.
+This should make it obvious which experiments to double down on and which
+ones to kill.
+
+4. Make Your First 100 Customers Happier
+How would you double your business if you COULD NOT get any new
+customers?
+
+CHALLENGE
+Make your customers happy.
+Ask one customer: “What is one thing I can do today that will make you
+twice as happy with us?”
+TLDR of Growth
+In your MDW journal, answer these five questions:
+1. What is your one goal for this year?
+2. Who exactly is your customer and where can you find them?
+3. What is one marketing activity you can double down on?
+4. How can you delight your first 100 customers?
+5. If you HAD to double your business with no money in thirty days, what
+would you do?
+
+CHAPTER 9
+52 Chances This Year
+Using Systems and Routines to Design the
+Business, and Life, You Want
+
+CHALLENGE
+Write out your Dream Year.
+Make the checklist detailed and specific.
+Turn Your Dream Year into Goals
+Work:
+$30 million for AppSumo
+500,000 YouTube subscribers
+Finish Million Dollar Weekend book
+Health:
+Bike across America
+75,000 push-ups
+Personal:
+Complete pilot’s license and fly to Albuquerque
+Either donate all the money you make or spend it on yourself and
+friends
+Get a nice house in Austin
+Travel:
+Do one week of solo travel
+Visit a mountain biking city (Asheville, Sun Valley, Jackson Hole,
+Sedona)
+Trip with parents and brother
+Key things about your goals:
+Don’t worry about doing everything in your dream year. Really
+think about which ones would excite you. My rule of thumb is if you’re
+hesitating on the dream, then it shouldn’t make your goals list.
+I don’t always accomplish everything on my lists every year. And
+that’s okay. This list is to help you prioritize your time, which we’ll talk
+about next. You can schedule and make sure you are working toward
+the things you really want to do.
+Over the past ten years I’ve tried to set super-aggressive goals, but
+I’ve found that it’s better to aim for more sustainable goals. It’s more
+impressive to find and stick with something than burn out after being
+impressive for one year.
+This list works for you, not the other way around. If midyear you
+realize something doesn’t matter, change it. I aim to review and update
+this list only twice a year.
+The best way to make sure you accomplish your goals is to see them often.
+Here’s where I put mine.
+On the lock screen of my phone
+On a sticky on my computer
+On a text file that I look at each week
+On the mirror of my bathroom
+On a daily note that I read every day
+CHALLENGE
+Find one person to send your yearly goals to.
+This can be someone who invested $1 in you early on, a friend . . .
+anyone you trust to check in with you regularly and challenge you on your
+BS as they help you follow through on your promises.
+CHALLENGE
+Yearly goals list.
+Use the four categories to flush out your yearly goals.
+Work
+Health
+Personal
+Travel
