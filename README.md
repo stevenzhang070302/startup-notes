@@ -7,21 +7,14 @@ A concise, actionable reference for launching and scaling consumer-facing AI pro
 | **`startup_playbook_notes.md`** | *Startup Playbook: Key Takeaways & Actionable Checklist* | Idea generation frameworks, rapid validation tactics, and growth strategies for consumer AI apps. |
 | **`million_dollar_weekend_notes.md`** | *Million Dollar Weekend* by Noah Kagan | Step-by-step challenges to start, validate, and grow a business in 48 hours. |
 
----
-
-## 📂 Folder Structure
-/your-repo
-├─ startup_playbook_notes.md # Tactical playbook for AI consumer apps
-├─ million_dollar_weekend_notes.md # 48-hour business launch framework
-└─ README.md # You are here
 
 
 ---
 
 ## 🏁 Quick Start
-1. **Skim the Playbook (≈10 min)**  
+1. **Skim the Playbook**  
    Read `startup_playbook_notes.md` to pick an AI idea using the *Founder–Problem Fit / A.I. Wave* checklists.  
-2. **Run the 48-Hour Money Challenge (≈2 days)**  
+2. **Run the 48-Hour Money Challenge**  
    Follow `million_dollar_weekend_notes.md` to secure three paying customers and validate demand.  
 3. **Ship an MVP (≈1–4 weeks)**  
    Use boilerplates, no-code, or copilots—focus on **one killer feature**.  
