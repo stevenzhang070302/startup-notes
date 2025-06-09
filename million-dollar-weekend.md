@@ -1,8 +1,8 @@
-part 1: start it
-part 2: build it
-part 3: grow it
+# part 1: start it
+# part 2: build it
+# part 3: grow it
 
-Challenge
+## Challenge
 Million dollar weekend contract
 Contract with Yourself
 I, ____________ (your name), commit to working toward my dream, having fun
@@ -13,26 +13,26 @@ Signature: ___________________________________
 Date: ___________________________________
 
 
-part 1: start it
-experimenting
+# part 1: start it
+## experimenting
 marketting is easy with a great product
 Start small, fast and not worrying aobut what I didn't know
 Focus above all else on being a starter, and experimenter, a learner.
 
-Challenge: The dollar challenge
+### Challenge: The dollar challenge
 Ask someone you know for a dollar investment in you and your future business - one measly dollar!
 
-Magic of NOW an not how
-Challenge: NOW not how
+## Magic of NOW an not how
+### Challenge: NOW not how
 Ask one person you respect for a business idea. Don't be afraid to act. Be afraid of living a life that seems more like a resume than an adventure.
 
-Freedom Number
+## Freedom Number
 To make that dream come true, you need to first choose your freedom number.
 
 Challenge: Choosing your freedom number.
 
 
-Part 2: Build it
+# Part 2: Build it
 - Finding Million Dollar Ideas
 - One minute business model
 - 48 hour money challenge
@@ -70,7 +70,7 @@ Ex: Jennifer posting to her Facebook page seeing if anyone is interested for coo
 Now where do you find customers?
 Zone of influence
 
-Challenge
+### Challenge
 Top three groups - who do you have easy access to that you'd be excited to help?
 
 Business creation should always be a conversation!
@@ -80,18 +80,18 @@ everything to avoid the discomfort of asking for money. This is the validation
 shortcut. You have to learn to fight through this impulse. It won’t be easy,
 but it’ll be worth it.
 
-Become a Problem Seeker
+## Become a Problem Seeker
 The crucial first step toward entrepreneurship is to
 study your own unhappiness and to think of solutions (aka business
 opportunities) for you to sell.
 
-The Idea Generators
+## The Idea Generators
 1. What’s the most painful (aka valuable) problem you can solve for
 people . . .
 2. That you also have passion for and/or unique expertise in . . .
 3. For the largest niche possible that you belong to and understand . .
 
-Challenges
+### Challenges
 1. Solve Your Own Problems
 - What is one thing this morning that irritated me?
 - What is one thing on my to-do list that’s been there over a week?
@@ -108,7 +108,7 @@ eBay and write at least one idea for a product or service
 
 4. Search Engine Queries
 
-# One-minute Business Model
+## One-minute Business Model
 - Is this a million dollar opportunity?
 - What's my model?
 - What if it turns out it's not going to work?
@@ -182,7 +182,7 @@ attractive to start.
 offer a service like setting up birthday parties or cooking at the person’s
 home?
 
-Examples of Pivots
+## Examples of Pivots
 AppSumo started as bundle software for Silicon Valley startups
 but moved to selling individual deals to marketing agencies.
 Gambit started out making sports games on Facebook but found
@@ -191,7 +191,7 @@ Sam Parr’s thehustle.co went from throwing live events to
 focusing just on the newsletter they used to promote the events. Fun
 fact: that newsletter business sold to HubSpot for a high eight figures.
 
-The Million-Dollar Opportunity Challenge
+### The Million-Dollar Opportunity Challenge
 
 The hard part is not choosing which business idea. The hard part is
 getting customers. And that’s where you’ll focus first.
@@ -220,9 +220,9 @@ Your target profit $1,000,000
 Profit per unit sold $475
 Total sales needed 2,105
 
-CHAPTER 5
-The 48-Hour Money Challenge
-Validate Your Business by Getting Paid
+# CHAPTER 5
+## The 48-Hour Money Challenge
+## Validate Your Business by Getting Paid
 
 Validation is finding three customers in forty-eight hours who will give you
 money for your idea
@@ -235,7 +235,7 @@ The benefits of Validation are immediate and critical:
 4. You get money up front.
 5. You light a fire under your butt to get moving.
 
-The Golden Rule of Validation
+## The Golden Rule of Validation
 Find three customers in forty-eight hours who will give you money for your idea.
 Success means moving quickly and spending no money. And that’s what makes the
 Golden Rule of Validation so effective. Here’s why it works so well:
@@ -256,7 +256,7 @@ Stripe, Cash App, and Venmo make collecting it easy these days.
 You’re not trying to invent demand; you’re
 trying to see how EXCITED people are about what you’re helping them with.
 
-Three Methods to Validate ANY Business Idea
+## Three Methods to Validate ANY Business Idea
 1. Direct Preselling
 Validation is a conversation. Not a sales pitch, but a chat to learn about the
 customer, see if you can help them and if they’ll actually pay you.
@@ -287,7 +287,7 @@ way you think in ten minutes.
 For $180, I will provide six months of tasty jerky to your office this
 week.
 
-Asking for Money
+##Asking for Money
 There’s a big difference between what people say and what people do.
 Everyone’s “interested” until they have to pay.
 
@@ -295,7 +295,7 @@ PRO TIP: Always follow up by sending an email to your first customers
 asking for feedback. Feedback is a gift you can continually use to improve
 yourself and your business.
 
-Dealing with Rejection
+## Dealing with Rejection
 
 That’s because every rejection is an opportunity; you can use it to take a deep
 dive into customer problems. Remember the Rejection Goals from chapter 2.
@@ -363,7 +363,7 @@ The key is: If you go this route, don’t overthink the design, the name, the
 language, the ads, or any of that. Just focus on seeing if you can get people to buy
 your product!
 
-CHALLENGE
+### CHALLENGE
 Validation.
 
 Your challenge is to get at least three paying customers within forty-eight
@@ -384,19 +384,18 @@ POTENTIAL BUYER: Money sent.
 After you’ve validated, if no one is buying, choose another idea and start over.
 Head back to chapter 3 and begin again!
 
-PART 3
-Grow It
-Make Money While You Sleep
+# PART 3
+# Grow It
+# Make Money While You Sleep
 
 - Social Media Is for Growth
 - . . . Email Is for Profit.
 - The Growth Machine.
 - 52 Chances This Year.
 
-CHAPTER 6
-Social Media Is for Growth . . .
-Build an Audience Who Will Support You for
-Life
+# CHAPTER 6
+# Social Media Is for Growth . . .
+# Build an Audience Who Will Support You for Life
 
 A community who already knows you, who follows you, who is rooting for you
 is one of the most powerful forces in business, and it’s created through generosity.
@@ -417,7 +416,7 @@ their life. I have information to share when it comes to dealing with the best.�
 3. What he is passionate about, and
 4. What unique thing this prepares him to do for you
 
-CHALLENGE
+### CHALLENGE
 Write out your unique angle.
 There are no right answers here. You can change these any time you’d like.
 1. Who are you?
@@ -425,7 +424,7 @@ There are no right answers here. You can change these any time you’d like.
 3. What are you passionate about?
 4. What will you do for people?
 
-Pick a Platform
+## Pick a Platform
 1. Which site has the audience you want to connect with?
 2. What medium do YOU enjoy creating content in?
 3. What disproportionate results will you get compared to the work you
@@ -434,7 +433,7 @@ put in?
 The key principle is to start right now to build your audience and then move
 them to your email list (which we’ll cover in the next chapter)
 
-CHALLENGE
+### CHALLENGE
 Update your bio.
 Choose your one platform, and using the unique angle pitch you wrote out
 before, clean up and rewrite your profile/bio on that platform to reflect who you
@@ -483,7 +482,7 @@ are totally blind to?
 Ultimately, your audience wants to learn something from you that’s relevant,
 useful, and surprising. And they want to do that by going on a journey with you.
 
-CHALLENGE
+### CHALLENGE
 Create your own Content Circle.
 Think back to your validation days: Who are the customers you want to
 appeal to and what’s the outcome you can create content for? What’s the unique
@@ -493,14 +492,14 @@ Core Circle:
 Medium Circle:
 Large Circle:
 
-Be the Guide, Not the Guru
+## Be the Guide, Not the Guru
 People don’t want to be lectured at by an all-knowing guru—they want to
 tag along with a guide.
 
 The goal here is to document what YOU do, not what you think everyone else
 should do.
 
-CHALLENGE
+### CHALLENGE
 Post one piece of content.
 Now it’s time to post content publicly.
 Now, this piece of content can come in any format. You know I LOVE me
@@ -512,9 +511,9 @@ You’ve already taken the first steps in this chapter.
 3. Your Content Circle—the narrow audience who you’ll laser-target
 4. Posting it TODAY
 
-CHAPTER 7
-. . . Email Is for Profit
-Use Email to Make a F*&k-Ton of Money
+#CHAPTER 7
+# . . . Email Is for Profit
+# Use Email to Make a F*&k-Ton of Money
 
 How to use a piece of useful free content to get people excited to sign
 up for your list.
@@ -523,7 +522,7 @@ wide.
 How to automate your email system so it’s sending out emails to new
 subscribers twenty-four hours a day.
 
-Your Email List Is Power
+## Your Email List Is Power
 Which of these options is the most valuable for your business?
 A. 100 email subscribers
 B. 1,000 YouTube subscribers
@@ -534,13 +533,13 @@ communicating with customers.
 What percentage of your list opens every email because they feel like they know
 and trust you? A healthy email list has a 20 percent open rate. Target that.
 
-Set Up a Landing Page
+## Set Up a Landing Page
 Your audience needs somewhere to go to actually join your email list.
 
-CHALLENGE
+### CHALLENGE
 Build your landing page.
 
-Getting Your First 100 Email Subscribers
+## Getting Your First 100 Email Subscribers
 0 to 10—The Dream Ten
 What’s the easiest way to start building your list? Use your existing network.
 Yes, your Dream Ten. These are people who know you and care about you. The
@@ -548,7 +547,7 @@ members of this highly engaged audience are waiting to visit, subscribe to, and 
 your website and content. They are your most powerful tool for knocking over that
 initial subscription domino
 
-11 to 50—Lazy Marketing
+## 11 to 50—Lazy Marketing
 Now that you have a landing page, you’ve got to publicize it. Obviously you’re
 already doing that by putting it in your calls to action inside your videos, TikToks, or
 wherever you are promoting yourself online (and in their corresponding descriptions).
@@ -559,13 +558,13 @@ Email signature
 Biography on Twitter, LinkedIn, TikTok, Instagram, and Facebook
 Those offer more leverage than most people think.
 
-CHALLENGE
+### CHALLENGE
 Update email signature and social media bios.
 Put your landing page address in your email signature and your social bios.
 Send me a link to your new landing page at twitter.com/noahkagan—I’d love to
 hear from you!
 
-51 to 100—Post in Your Places
+## 51 to 100—Post in Your Places
 You already have a social presence. Now it’s time to post a modified version of
 that email above in Facebook, Snapchat, Twitter, Reddit groups—or wherever you’re
 active.
@@ -581,7 +580,7 @@ decisions at an office—and likes a good laugh?”
 Don’t forget about people you work with. I know there can be conflict, but you
 have more friends than you realize who want to support you!
 
-Growing Beyond Your First Subscribers
+## Growing Beyond Your First Subscribers
 1. Write an insanely detailed blog post dissecting the success of and
 drawing lessons from HubSpot’s content marketing approach. He spent forty
 hours working on this.
@@ -608,14 +607,14 @@ A landscaping expert might offer recommendations for which kinds of
 grass to use around the United States.
 
 
-CHALLENGE
+### CHALLENGE
 Create a Lead Magnet.
 It’s time to create your first Lead Magnet using the process we’ve just
 outlined above. You can use your piece of content from the previous chapter as a
 base or start something new. Don’t spend more than two hours on the first
 iteration. If you want to turn it into a big thing later on, great. But start SMALL.
 
-Set Up Your Cash Register
+## Set Up Your Cash Register
 
 Here’s the three-step progression of emails that I’ve found works best:
 1. Welcome Email
@@ -649,13 +648,13 @@ Noah
 A MAJOR thing here is one-by-one marketing. This is personally engaging
 with each new subscriber.
 
-CHALLENGE
+### CHALLENGE
 Set up an autoresponder.
 I happen to think SendFox.com (I helped build it) is pretty darned good, but
 there are a bunch of others that I recommend, like ConvertKit.com and
 Mailchimp.com.
 
-The Law of 100
+## The Law of 100
 Lean in and commit to 100 reps. (Think of this as doing reps and practicing as
 opposed to failing or succeeding.) This changes your mindset and makes it much
 easier to sustain forward motion when things get tough.
@@ -671,7 +670,7 @@ days.
 If you’re creating a business, directly pitch 100 customers.
 
 
-CHALLENGE
+### CHALLENGE
 The Law of 100.
 Commit to doing 100 emails, posts, or whatever action will move you closer
 to your goals. To live up to your commitment, use the Law of 100 Grid below to
@@ -688,9 +687,9 @@ TASK: _________________________________________________
 81 82 83 84 85 86 87 88 89 90
 91 92 93 94 95 96 97 98 99 100
 
-CHAPTER 8
-The Growth Machine
-My Battle-Tested Growth Playbook
+# CHAPTER 8
+# The Growth Machine
+# My Battle-Tested Growth Playbook
 
 1. What is your one goal for this year?
 2. Who exactly is your customer and where can you find them?
@@ -738,7 +737,7 @@ Giveaways 25 ???
 Facebook ads 16 ???
 Total 166 (his goal)
 
-Source Expected Sales Actual Sales
+## Source Expected Sales Actual Sales
 Reach out to friends + referrals 30 9
 Sale to Vancouver Rock Climbing Group 20 11
 Wholesale options 50 217
@@ -770,7 +769,7 @@ your existing ones:
 Think about what’s in common with your existing customers. Certain age?
 Common interest? Specific gender? Certain hobbies? From a specific area?
 
-CHALLENGE
+### CHALLENGE
 Who’s your customer?
 Describe to me who your ideal customer is.
 The MORE specific the better. Think about their gender, age, location, and
@@ -812,7 +811,7 @@ and promote the shit out of it.
 Collaborations: Appear on other podcasts/shows/newsletters/YouTube
 channels.
 
-CHALLENGE
+### CHALLENGE
 Where are your customers?
 Now list at least five places your customers are and how many sales in thirty
 days you think you can get from them.
@@ -821,7 +820,7 @@ days you think you can get from them.
 There’s a golden rule to marketing tactics I want you to repeat after me: Find what
 works and double down on it; find what doesn’t work and kill it.
 
-CHALLENGE
+### CHALLENGE
 What marketing strategies can I double down on?
 Let’s update your original marketing experiments sheet with actual sales.
 This should make it obvious which experiments to double down on and which
@@ -831,7 +830,7 @@ ones to kill.
 How would you double your business if you COULD NOT get any new
 customers?
 
-CHALLENGE
+### CHALLENGE
 Make your customers happy.
 Ask one customer: “What is one thing I can do today that will make you
 twice as happy with us?”
@@ -844,12 +843,12 @@ In your MDW journal, answer these five questions:
 5. If you HAD to double your business with no money in thirty days, what
 would you do?
 
-CHAPTER 9
-52 Chances This Year
-Using Systems and Routines to Design the
-Business, and Life, You Want
+# CHAPTER 9
+# 52 Chances This Year
+# Using Systems and Routines to Design the
+# Business, and Life, You Want
 
-CHALLENGE
+### CHALLENGE
 Write out your Dream Year.
 Make the checklist detailed and specific.
 Turn Your Dream Year into Goals
@@ -892,12 +891,12 @@ On a sticky on my computer
 On a text file that I look at each week
 On the mirror of my bathroom
 On a daily note that I read every day
-CHALLENGE
+### CHALLENGE
 Find one person to send your yearly goals to.
 This can be someone who invested $1 in you early on, a friend . . .
 anyone you trust to check in with you regularly and challenge you on your
 BS as they help you follow through on your promises.
-CHALLENGE
+### CHALLENGE
 Yearly goals list.
 Use the four categories to flush out your yearly goals.
 Work
